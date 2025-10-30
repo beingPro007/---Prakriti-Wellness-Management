@@ -15,6 +15,28 @@
 
 **Prakriti Wellness Management** is a modern, full-stack web application that bridges traditional Ayurvedic wellness practices with cutting-edge technology. Built with React, TypeScript, and Supabase, it offers a comprehensive platform for personalized health management, integrating ancient wisdom with modern convenience.
 
+## 📸 Screenshots
+
+### Authentication & Dashboard
+![Auth Screen](assets/screenshots/Screenshot%20From%202025-10-30%2009-25-25.png)
+*Secure authentication and intuitive dashboard interface*
+
+### Auth Screenshots
+![Prakriti Test](assets/screenshots/Screenshot%20From%202025-10-30%2009-28-47.png)
+*Interactive questionnaire for comprehensive dosha analysis*
+
+### Supabase Screenshot
+![Diet Chart](assets/screenshots/Screenshot%20From%202025-10-30%2009-28-57.png)
+*Personalized diet and lifestyle recommendations*
+
+### Health Profile
+![Daily Schedule](assets/screenshots/Screenshot%20From%202025-10-30%2009-40-57.png)
+*Customized daily routine suggestions and activity tracking*
+
+### Progress Tracker
+![Admin Dashboard](assets/screenshots/Screenshot%20From%202025-10-30%2009-41-10.png)
+*Comprehensive admin interface for user management and monitoring*
+
 ## ✨ Key Features
 
 ### 🧑‍💼 User Features
