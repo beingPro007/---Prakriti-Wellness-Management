@@ -109,7 +109,7 @@ Before setup, ensure you have:
 
 1. **Clone & Navigate**
    ```bash
-   git clone https://github.com/beingPro007/ihwp_project.git
+   git clone https://github.com/beingPro007/---Prakriti-Wellness-Management.git
    cd ihwp_project
    ```
 
